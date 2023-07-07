@@ -1,12 +1,4 @@
 { "compressionlevel":-1,
- "editorsettings":
-    {
-     "export":
-        {
-         "format":"json",
-         "target":"..\/Documents\/GitHub\/slime\/public\/map.json"
-        }
-    },
  "height":26,
  "infinite":false,
  "layers":[
@@ -353,15 +345,106 @@
  "nextobjectid":49,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.10.1",
+ "tiledversion":"1.8.4",
  "tileheight":16,
  "tilesets":[
         {
+         "columns":64,
          "firstgid":1,
-         "source":"tilesheet.tsx"
+         "image":"tilesheet.png",
+         "imageheight":1024,
+         "imagewidth":1024,
+         "margin":0,
+         "name":"Sunnyside V3",
+         "spacing":0,
+         "tilecount":4096,
+         "tileheight":16,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"h",
+                         "type":"int",
+                         "value":16
+                        }, 
+                        {
+                         "name":"w",
+                         "type":"int",
+                         "value":16
+                        }, 
+                        {
+                         "name":"x",
+                         "type":"int",
+                         "value":0
+                        }, 
+                        {
+                         "name":"y",
+                         "type":"int",
+                         "value":0
+                        }]
+                }, 
+                {
+                 "id":3,
+                 "properties":[
+                        {
+                         "name":"h",
+                         "type":"int",
+                         "value":16
+                        }, 
+                        {
+                         "name":"w",
+                         "type":"int",
+                         "value":8
+                        }, 
+                        {
+                         "name":"x",
+                         "type":"int",
+                         "value":0
+                        }, 
+                        {
+                         "name":"y",
+                         "type":"int",
+                         "value":0
+                        }]
+                }, 
+                {
+                 "id":4,
+                 "properties":[
+                        {
+                         "name":"h",
+                         "type":"int",
+                         "value":16
+                        }, 
+                        {
+                         "name":"w",
+                         "type":"int",
+                         "value":8
+                        }, 
+                        {
+                         "name":"x",
+                         "type":"int",
+                         "value":8
+                        }, 
+                        {
+                         "name":"y",
+                         "type":"int",
+                         "value":0
+                        }]
+                }, 
+                {
+                 "id":2298,
+                 "properties":[
+                        {
+                         "name":"Collide Left",
+                         "type":"bool",
+                         "value":false
+                        }]
+                }],
+         "tilewidth":16
         }],
  "tilewidth":16,
  "type":"map",
- "version":"1.10",
+ "version":"1.8",
  "width":26
 }
