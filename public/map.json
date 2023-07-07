@@ -345,13 +345,13 @@
  "nextobjectid":49,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.8.4",
+ "tiledversion":"1.10.1",
  "tileheight":16,
  "tilesets":[
         {
          "columns":64,
          "firstgid":1,
-         "image":"tilesheet.png",
+         "image":"..\/..\/SFL-Asset-Files\/sfl\/contest\/Bumpkins\/Art Requirements\/Workspace\/SS\/Sunnyside_World_Assets\/Sunnyside_World_Assets\/Tileset\/spr_tileset_sunnysideworld_16px.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -445,6 +445,6 @@
         }],
  "tilewidth":16,
  "type":"map",
- "version":"1.8",
+ "version":"1.10",
  "width":26
 }
