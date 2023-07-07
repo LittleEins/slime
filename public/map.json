@@ -351,7 +351,7 @@
         {
          "columns":64,
          "firstgid":1,
-         "image":"..\/..\/SFL-Asset-Files\/sfl\/contest\/Bumpkins\/Art Requirements\/Workspace\/SS\/Sunnyside_World_Assets\/Sunnyside_World_Assets\/Tileset\/spr_tileset_sunnysideworld_16px.png",
+         "image":"tilesheet.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
