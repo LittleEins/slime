@@ -1,4 +1,12 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "format":"json",
+         "target":"..\/Documents\/GitHub\/slime\/public\/map.json"
+        }
+    },
  "height":26,
  "infinite":false,
  "layers":[
@@ -350,7 +358,7 @@
  "tilesets":[
         {
          "firstgid":1,
-         "source":"..\/..\/..\/..\/Downloads\/tilesheet.tsx"
+         "source":"tilesheet.tsx"
         }],
  "tilewidth":16,
  "type":"map",
